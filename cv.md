@@ -22,5 +22,5 @@ function(a, b) {
 }
 ```
 
-## _languedges_
-+ Englith
+## _languages_
++ English
