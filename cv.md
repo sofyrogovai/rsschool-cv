@@ -2,9 +2,10 @@
 ## _contacts_
 + email:
 + phone: +1(111)111-111
-+ github:
++ github: sofyrogovai
 
 ## _about me_
+I am starting out in the frontend only, but i think it will be fun.
 
 ## _skills_
 + git
