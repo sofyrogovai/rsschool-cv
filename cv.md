@@ -9,6 +9,7 @@
 ## _skills_
 + git
 + html
++ github
 + css
 
 ## _projects_
